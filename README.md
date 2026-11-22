@@ -62,7 +62,7 @@ pytest
 
 원본 파이프라인에는 리서치(웹 검색과 공식 출처 수집), 퇴고, QA 체크리스트와 수정 루프, RSS 기반 주제 기획, GitHub Actions 스케줄 발행, Slack·LangSmith 관측이 더 있습니다. 전체 구조와 운영하면서 겪은 문제는 블로그 글로 정리하고 있습니다.
 
-- 글: velog 시리즈 준비 중
+- 글: [AI 에이전트 9개로 블로그를 무인 운영해 봤습니다 (1) 전체 구조](https://velog.io/@kodding/ai-agent-blog-pipeline-1)
 - 전체 버전 출시 알림 받기: https://docs.google.com/forms/d/e/1FAIpQLSe2oi5fH5gc8DoCTdHHmav_-rLgEP3_qUH7Sf6-qnt7pxeUjw/viewform
 
 ## 라이선스
