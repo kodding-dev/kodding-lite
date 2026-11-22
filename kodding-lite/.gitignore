@@ -1,0 +1,8 @@
+.env
+charter.md
+output/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
